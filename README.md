@@ -1,7 +1,7 @@
 
 # InterFAX Node Library
 
-[![Module Version](https://badge.fury.io/js/interfax.svg)](https://badge.fury.io/js/interfax) [![Build Status](https://travis-ci.org/interfax/interfax-nodejs.svg?branch=master)](https://travis-ci.org/interfax/interfax-nodejs)
+[![Module Version](https://badge.fury.io/js/interfax.svg)](https://badge.fury.io/js/interfax) [![Build Status](https://travis-ci.org/ricky-shake-n-bake-bobby/interfax-nodejs.svg?branch=master)](https://travis-ci.org/ricky-shake-n-bake-bobby/interfax-nodejs)
 
 [Installation](#installation) | [Getting Started](#getting-started) | [Contributing](#contributing) | [License](#license)
 
