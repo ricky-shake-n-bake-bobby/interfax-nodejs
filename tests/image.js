@@ -1,7 +1,7 @@
 import Image from '../src/image.js';
 
 import { expect } from 'chai';
-import fs         from 'fs';
+import fs         from 'file-system';
 
 let image;
 
