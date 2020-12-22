@@ -1,7 +1,8 @@
 import Image from '../src/image.js';
 
 import { expect } from 'chai';
-import fs         from 'fs';
+//import fs         from 'fs';
+const fs = require('fs');
 
 let image;
 
