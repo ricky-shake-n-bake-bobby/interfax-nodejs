@@ -1,4 +1,5 @@
-import fs   from 'file-system';
+//import fs   from 'fs';
+const fs = require('fs");
 import mime from 'mime';
 
 class File {
