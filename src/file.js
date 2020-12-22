@@ -1,4 +1,4 @@
-import fs   from 'fs';
+import fs   from 'file-system';
 import mime from 'mime';
 
 class File {
